@@ -1,0 +1,17 @@
+Wisc ID: aaimam
+GitHub ID: ahmad-i
+Points = 100
+Grade = 8 out of 8
+[X] Menu screen for starting/pausing/restarting the game is stylistically neat
+[X] Random shapes (order changes every time the game loads) drop from the top
+[X] Shapes fall incrementally and not continuously
+[X] Basic Tetris Rules [all required, worth 0.8 each]
+[X] Full row clears itself
+[X] Blocks can spin
+[X] Shapes move down to bottom and stop when touching another block or the ground
+[X] 4 or more unique shapes with unique colors
+[X] Scoring system present, and it awards successive clears
+[X] 2 additional game mechanics are present and working
+    - Hard drop
+    - Level progression
+[X] Audio is present for interactions as well as background
